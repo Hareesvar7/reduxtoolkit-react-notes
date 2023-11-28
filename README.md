@@ -1,1 +1,1 @@
-# reduxtoolkit-react-notes
+# Notes_app using redux
